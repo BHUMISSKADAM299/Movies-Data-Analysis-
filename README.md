@@ -2,7 +2,7 @@
 Conduct a research on factors affecting movie box office success (e.g., genre, ratings, cast, duration)
 
 Key Details
-Source: Scraped from IMDb (Internet Movie Database).
+Source: Scraped from IMDb (Internet Movie Database)
 Time Period: Covers movies released mainly from 1986 to 2016
 Number of Movies: Approximately 6,820 to 7,666 entries
 Main File: movies.csv 
